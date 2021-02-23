@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Richard
-<a href='https://linkedin/in/richard-s-rodrigues' target='_blank'>![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)</a>
+<a href='https://www.linkedin.com/in/richard-s-rodrigues' target='_blank'>![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)</a>
 --------
 
 ### 👨🏻‍💻 &nbsp;About Me
