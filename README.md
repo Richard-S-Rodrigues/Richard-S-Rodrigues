@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi, i'm Richard 👋
 
-<!--
-**Richard-S-Rodrigues/Richard-S-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
