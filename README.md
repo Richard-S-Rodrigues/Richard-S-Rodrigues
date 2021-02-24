@@ -26,14 +26,16 @@
    <p>
     <img src='https://img.shields.io/badge/-React-05122A?style=flat&logo=react' alt='React' />
     <img src='https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C' alt='Bootstrap' />
+    <img src='https://img.shields.io/badge/-Styled Components-05122A?style=flat&logo=styledComponents' alt='Styled Components' />
     <img src='https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFA611' alt='Firebase' />
+    <img src='https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=072C61' alt='Linux' />
    </p>
   <p>
   
 </p>
 <hr>
 
-### Contact
+### Contact me
 - Linkedin: <a href='https://www.linkedin.com/in/richard-s-rodrigues'>https://www.linkedin.com/in/richard-s-rodrigues</a>
 - E-mail: richardsouzarodrigues555@gmail.com
 
