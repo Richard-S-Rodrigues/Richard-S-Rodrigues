@@ -7,7 +7,13 @@
    - I like to spend my time building cool stuffs.</p>
    - I enjoy training my coding skills with coding challenges, like <a href='codingame.com/'>Codingame</a> of <a href='hackerrank.com/'>HackerRank</a></p>
  </p>
+<hr>
 <p align='center'>
+  
+  <p align='right'>
+     <img src='https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif' width='500px' align='right'/>
+  </p>
+ 
   <p align='left'>
    <h2>🛠 Tech Stack</h2>
    <img src='https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript' alt='JavaScript' />
@@ -19,9 +25,7 @@
    <img src='https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C' alt='Bootstrap' />
    <img src='https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFA611' alt='Firebase' />
   <p>
-  <p>
-   <img src='https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif' width='500px' align='right'/>
-  </p>
+  
 </p>
 
  
