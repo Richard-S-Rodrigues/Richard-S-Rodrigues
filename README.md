@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Richard
-<a href='https://www.linkedin.com/in/richard-s-rodrigues' target='_blank'>![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=0072b1)</a>
+
 --------
  
  <p align='left'>
@@ -31,7 +31,10 @@
   <p>
   
 </p>
+<hr>
 
- 
+### Contact
+- Linkedin: <a href='https://www.linkedin.com/in/richard-s-rodrigues'>https://www.linkedin.com/in/richard-s-rodrigues</a>
+- E-mail: richardsouzarodrigues555@gmail.com
 
 
