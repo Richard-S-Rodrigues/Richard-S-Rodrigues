@@ -27,11 +27,11 @@
    </p>
    <p>
     <img src='https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C' alt='Bootstrap' />
-    <img src='https://img.shields.io/badge/-Styled Components-05122A?style=flat&logo=styledComponents' alt='Styled Components' />
+    <img src='https://img.shields.io/badge/-Styled Components-05122A?style=flat&logo=styled-components' alt='Styled Components' />
     <img src='https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=072C61' alt='Linux' />
     <img src='https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC' alt='VSCode' />
     <img src='https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown' alt='Markdown' />
-    <img src='https://img.shields.io/badge/-Sublime-05122A?style=flat&logo=sublime' alt='Sublime' />
+    <img src='https://img.shields.io/badge/-Sublime text-05122A?style=flat&logo=sublime-text' alt='Sublime Text' />
    </p>
   <p>
   
