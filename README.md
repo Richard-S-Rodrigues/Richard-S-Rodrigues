@@ -3,9 +3,10 @@
 --------
  
  <p align='left'>
-   - I'm a software developer focused on frontend.</p>
-   - I like to spend my time building cool stuffs.</p>
-   - I enjoy training my coding skills with coding challenges, like <a href='codingame.com/'>Codingame</a> of <a href='hackerrank.com/'>HackerRank</a></p>
+   &nbsp;I'm a software developer focused on frontend.</p>
+   💡 &nbsp;I like to spend my time building cool stuffs.</p>
+   💻 &nbsp;I enjoy training my coding skills with coding challenges, like <a href='codingame.com/'>Codingame</a> of <a href='hackerrank.com/'>HackerRank</a></p>
+   🌱 &nbsp;I'm always learning something new about web development.
  </p>
 <hr>
 <p align='center'>
