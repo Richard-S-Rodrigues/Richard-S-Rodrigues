@@ -22,6 +22,7 @@
     <img src='https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6' alt='CSS' />
     <img src='https://img.shields.io/badge/-Git-05122A?style=flat&logo=git' alt='Git' />
     <img src='https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown' alt='Markdown' />
+ <img src='https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC' alt='VSCode' />
    </p>
    <p>
     <img src='https://img.shields.io/badge/-React-05122A?style=flat&logo=react' alt='React' />
@@ -35,8 +36,8 @@
 </p>
 <hr>
 
-### Contact me
-- Linkedin: <a href='https://www.linkedin.com/in/richard-s-rodrigues'>https://www.linkedin.com/in/richard-s-rodrigues</a>
-- E-mail: richardsouzarodrigues555@gmail.com
+### 💬 Contact me
+- Linkedin - <a href='https://www.linkedin.com/in/richard-s-rodrigues'>https://www.linkedin.com/in/richard-s-rodrigues</a>
+- E-mail - richardsouzarodrigues555@gmail.com
 
 
