@@ -5,6 +5,8 @@
 
 I'm an enthusiastic programmer passionate about technology.
 
+Focused on Web development, i like to challenge myself building projects and improving a skill everyday.
+
 <p align='center'>
  
   <p align='left'>
