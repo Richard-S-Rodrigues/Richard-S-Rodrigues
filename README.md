@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Richard%20Rodrigues-0845a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-s-rodrigues/)](https://www.linkedin.com/in/richard-s-rodrigues/) 
 [![Gmail Badge](https://img.shields.io/badge/-richardsouzarodrigues555@gmail.com-0845a6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardsouzarodrigues555@gmail.com)](mailto:richardsouzarodrigues555@gmail.com)
 
-I'm an enthusiastic programmer passionate about technology.
+I'm an enthusiastic programmer passionate by technology.
 
 Focused on Web development, i like to challenge myself building projects and improving a skill everyday.
 
